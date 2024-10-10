@@ -74,5 +74,5 @@ abstract contract IncentivesResolver is Helpers, Events {
 }
 
 contract ConnectV3AaveIncentivesAvalanche is IncentivesResolver {
-	string public constant name = "Aave-V3-Incentives-v1";
+	string public constant name = "Aave-V3-Incentives-v1.1";
 }
